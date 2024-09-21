@@ -14,6 +14,10 @@ For any official or legal concerns, please contact the Modrinth team directly.
 
 This project automates the process of fetching daily revenue data from the [Modrinth API](https://modrinth.com) and displaying it on a web page. The data includes the total platform revenue, creator revenue, and a calculated Modrinth revenue, which represents 25% of the total revenue. The python script pulls from the API and populates the html page.
 
+# Demo
+
+Modrinth revenue demo: https://modrinth.citrus-mc.com/
+
 ## Features:
 - **Automated Data Fetching**: Pulls revenue data from the Modrinth API once a day using a cron job.
 - **Detailed Revenue Breakdown**:
